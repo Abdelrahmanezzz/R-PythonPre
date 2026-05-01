@@ -1,0 +1,28 @@
+# Root .gitignore
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# Node dependencies
+node_modules/
+dist/
+.angular/
+
+# Logs
+logs/
+*.log
+
+# Databases
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
